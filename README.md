@@ -8,9 +8,9 @@ Pop.
 
 Bubble Wrap is a sheet of bubble wrap that lives on your Mac. Squeeze a bubble, hear the crack, feel your shoulders come down a little. Work stress, that email you're avoiding, plain old anxiety: give it a bubble and pop it. Run out of bubbles? It refills. Stress doesn't stand a chance.
 
-![Bubble Wrap in action](assets/demo.gif)
+[![Bubble Wrap in action: click to watch with sound](assets/demo.gif)](https://ntsh08.github.io/Bubble-Wrap/)
 
-[Watch it with sound](assets/bubble-wrap.mp4)
+🔊 **[Watch it with sound](https://ntsh08.github.io/Bubble-Wrap/)**, it's half the fun.
 
 ## Download
 
@@ -21,6 +21,12 @@ Bubble Wrap is a sheet of bubble wrap that lives on your Mac. Squeeze a bubble, 
 Open the DMG and drag Bubble Wrap into Applications.
 
 Needs macOS 14 or later. Works on Apple Silicon and Intel Macs. Signed and notarized by Apple, so it opens like any other app.
+
+## Check out more of my work
+
+[nitishux.com](https://nitishux.com)
+
+If you like what I make and want to support it, you can [buy me a coffee](https://buymeacoffee.com/nitishbhardwaj) ☕
 
 ## Privacy
 
