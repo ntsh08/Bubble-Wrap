@@ -8,9 +8,9 @@ Pop.
 
 Bubble Wrap is a sheet of bubble wrap that lives on your Mac. Squeeze a bubble, hear the crack, feel your shoulders come down a little. Work stress, that email you're avoiding, plain old anxiety: give it a bubble and pop it. Run out of bubbles? It refills. Stress doesn't stand a chance.
 
-[![Bubble Wrap in action: click to watch with sound](assets/demo.gif)](https://ntsh08.github.io/Bubble-Wrap/)
+https://github.com/user-attachments/assets/6294c267-4f4b-43a9-91e1-c5a00a2dacae
 
-🔊 **[Watch it with sound](https://ntsh08.github.io/Bubble-Wrap/)**, it's half the fun.
+🔊 Turn the sound on, it's half the fun.
 
 ## Download
 
